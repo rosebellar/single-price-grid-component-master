@@ -1,0 +1,52 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+main{
+    background: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    box-sizing: border-box;
+    min-width: 300px;
+    max-width: 475px;
+    background: red;
+    
+ }
+
+
+.section-1{
+    background: blue;
+    padding: 20px 20px;
+
+}
+
+.section-1 h1{
+    font-size: 20px;
+    padding: 20px 0px;
+}
+
+ .first{
+    color: red;
+}
+
+.second {
+    color:violet;
+}
+
+.section-2{
+    background: white;
+}
+
+.section-3{
+    background: yellow;
+}
+
